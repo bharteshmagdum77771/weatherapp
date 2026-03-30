@@ -8,9 +8,9 @@ Responsive design for mobile and desktop
 Easy-to-read weather icons and information
 
 ## Technologies Used
-React.js 
-html
-javascript
-CSS/Bootstrap
-Vite 
+React.js,
+html,
+javascript,
+CSS/Bootstrap,
+Vite,
 OpenWeatherMap API
