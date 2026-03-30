@@ -11,6 +11,6 @@ Easy-to-read weather icons and information
 React.js,
 html,
 javascript,
-CSS/Bootstrap,
+CSS and Bootstrap,
 Vite,
 OpenWeatherMap API
